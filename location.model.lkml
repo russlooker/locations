@@ -4,7 +4,7 @@ connection: "locations"
 include: "*.view"
 
 # include all the dashboards
-include: "*.dashboard"
+
 
 explore: locations {}
 
